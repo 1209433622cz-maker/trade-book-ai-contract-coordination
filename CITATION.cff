@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and companion separately when their DOIs are available."
+title: "Internal AI Processing and Independent Reuse of Trade Books: Contract triggers and author remedies in U.S. publishing"
+type: software
+version: "0.12"
+date-released: "2026-10-13"
+repository-code: "https://github.com/1209433622cz-maker/trade-book-ai-contract-coordination"
+authors:
+  - family-names: "Zhang"
+    given-names: "Anhui"
+    affiliation: "Shandong University of Finance and Economics (SDUFE), Jinan, China"
+  - family-names: "Hong"
+    given-names: "Shuliang"
+    affiliation: "Yunnan University, Kunming, China"
+license:
+  - MIT
+  - CC-BY-NC-ND-4.0

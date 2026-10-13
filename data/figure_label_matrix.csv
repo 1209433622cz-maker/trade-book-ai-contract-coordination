@@ -1,0 +1,39 @@
+﻿figure,panel,id,left,middle,right,status
+F01,triggers,T1,"Internal operation
+[5]","Normal publisher
+operations","Task permission is not
+all provider permission",MODEL_ANALYSIS_NOT_EXECUTED
+F01,triggers,T2,"Consumer upload
+[5]","Consumer-facing channel
+Permission or other agreement","Channel permission is not
+safeguard performance",MODEL_ANALYSIS_NOT_EXECUTED
+F01,triggers,T3,"Pass-through
+[7]","Publisher issues sublicense
+of granted rights","Applicable obligations only
+Author claim is separate",MODEL_ANALYSIS_NOT_EXECUTED
+F01,variations,A0,A0  Task only,"Authorized task assistance
+No consumer or sublicense trigger","No independent use
+is stipulated",HYPOTHETICAL_NOT_OBSERVATION
+F01,variations,A1,A1  Consumer channel,A0 changes channel only,"Agreed approval may suffice
+Safeguard remains to examine",HYPOTHETICAL_NOT_OBSERVATION
+F01,variations,A2,A2  Claimed reuse,"A0 adds independently
+asserted training use","Additional permission
+is not established",HYPOTHETICAL_NOT_OBSERVATION
+F01,variations,A3,A3  Direct permission,"A2 adds sufficient grant from
+author with relevant authority","Specified authority can close
+No publisher sublicense",HYPOTHETICAL_NOT_OBSERVATION
+F02,contracts,K1,Author versus publisher,"Agreed upload safeguard
+Or optional procurement duty",Author as upstream party,ANALYTICAL_CLAIM_PATH_NOT_OBSERVED_OUTCOME
+F02,contracts,K2,Publisher versus provider,"Provider promise
+to publisher",Publisher as downstream party,ANALYTICAL_CLAIM_PATH_NOT_OBSERVED_OUTCOME
+F02,contracts,K3,"Author versus provider
+Direct agreement","Separate provider promise
+to author",Author as direct party,ANALYTICAL_CLAIM_PATH_NOT_OBSERVED_OUTCOME
+F02,contracts,K4,"Author versus provider
+Beneficiary claim","Term in publisher-provider
+agreement","Effective intended-beneficiary
+or other legal basis",ANALYTICAL_CLAIM_PATH_NOT_OBSERVED_OUTCOME
+F02,copyright,K5,"Exclusive-right owner
+versus alleged infringer","Specified act involving
+a particular exclusive right","Section 501(b) entitlement
+Not contract-beneficiary status",ANALYTICAL_CLAIM_PATH_NOT_OBSERVED_OUTCOME

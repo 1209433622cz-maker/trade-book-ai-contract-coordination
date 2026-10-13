@@ -1,0 +1,12 @@
+﻿row_id,document_id,cluster,document_type,instrument_label,locator,observed_feature,inference_ceiling,original_executed_instrument_inspected,executed_ai_contract,transaction_outcome,industry_prevalence_identified
+K01,C01,ROSETTA,judicial_excerpt,Styron 1961,"B.1; Sarnoff Ex.A paras.1,2,8; PDF p.2",book-form grant; enumerated subsidiary permissions; separate competition promise,"1961 context, no AI allocation",False,False,False,False
+K02,C01,ROSETTA,judicial_excerpt,Styron 1977,B.1; Sarnoff Ex.B; PDF p.2,court describes near-identical grant and promise,not an independent judicial holding,False,False,False,False
+K03,C01,ROSETTA,judicial_excerpt,Vonnegut 1967,"B.2; Ex.C paras.1(d),5; PDF pp.2-3",future copying forms and express reservations; no noncompete,two book titles do not create two agreements,False,False,False,False
+K04,C01,ROSETTA,judicial_excerpt,Vonnegut 1970,B.2; Ex.D para.10(e); PDF p.3,similar grants plus noncompetition undertaking,three titles do not create three agreements,False,False,False,False
+K05,C01,ROSETTA,judicial_excerpt,Parker 1982,"B.3; Ex.E paras.1(d),5,18; PDF p.3",future-copying phrase; electronic-recording reservation; separate undertaking,same litigation and interpretive record,False,False,False,False
+K06,C02,AUTHORS_GUILD,model_not_executed,AI model internal exception,Prohibiting All AI Use Not Expressly Granted,internal exception,no default rule or adoption rate,False,False,False,False
+K07,C02,AUTHORS_GUILD,model_not_executed,AI model specified uses,Permitting Specific AI Uses as Subsidiary Rights,separate uses,"same live document, not another transaction",False,False,False,False
+K08,C02,AUTHORS_GUILD,model_not_executed,AI model upload safeguard,Publisher Use; No Uploading provision,upload safeguard,no proven technical performance,False,False,False,False
+K09,C03,AUTHORS_GUILD,model_not_executed,Trade-book grant,section 2(a)(i)-(iv),additional copies tied to licensed publication; conditional sublicensing power,no executed grant or frequency estimate,False,False,False,False
+K10,C04,AUTHORS_GUILD,model_not_executed,Trade-book sublicense,section 11(a),pass-through undertaking,does not prove terms agreed downstream,False,False,False,False
+K11,C05,AUTHORS_GUILD,model_not_executed,Competitive works,section 21,limited competition undertaking,not a general training reservation,False,False,False,False

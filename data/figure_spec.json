@@ -1,0 +1,18 @@
+[
+  {
+    "id": "F01",
+    "name": "Figure_1_Model_Triggers_and_Worked_Variations_v0_12",
+    "insert_after": "W13",
+    "old_figure": 1,
+    "caption": "Figure 1. Model events, a hypothetical baseline and three variations. Panel a distinguishes task permission, the consumer-upload safeguard and applicable sublicense obligations. The $500 condition concerns copies, not pass-through. Panel b compares A1 and A2 with the A0 baseline, and A3 with A2. A0 assumes task authorization; A3 assumes sufficient permission from an author retaining relevant authority. Worked A1 adds explicit channel-agreement and no-protective-measure premises. Permission can resolve approval without proving safeguard performance. These rows are constructions, not observations or predicted liability; a missing trigger does not authorize reuse. Figure-rendering code was prepared with OpenAI Codex assistance; the specified legal relationships were rendered using Matplotlib.",
+    "alt": "Three model triggers, a constructed A0 baseline and three variations distinguish permission from safeguard performance. Authorization is assumed. Worked A1 adds stipulated conduct, not inferred missing-record evidence. No contract adoption or liability is measured."
+  },
+  {
+    "id": "F02",
+    "name": "Figure_2_Claimants_Undertakings_and_Copyright_v0_12",
+    "insert_after": "E01",
+    "old_figure": 2,
+    "caption": "Figure 2. Undertakings and claimant relationships. Panel a begins with the publisher's agreed upload safeguard; an optional procurement duty is another upstream undertaking. It then distinguishes the publisher's provider agreement, the author's direct agreement and an intended-beneficiary basis. Panel b identifies the separate copyright entitlement. Neither approval nor an upstream promise supplies automatic downstream enforcement. Formation, interpretation, preemption, nonperformance and relief require their own analysis. Reporting or confidentiality labels do not establish a preemption exception. These are possible relationships, not a mandatory litigation sequence or successful claims. Figure-rendering code was prepared with OpenAI Codex assistance; the specified legal relationships were rendered using Matplotlib.",
+    "alt": "Author-publisher path includes the agreed upload safeguard and only optionally procurement. Publisher-provider, direct-author and beneficiary paths require separate entitlement. Copyright ownership is distinct. No guaranteed claim or remedy is depicted."
+  }
+]

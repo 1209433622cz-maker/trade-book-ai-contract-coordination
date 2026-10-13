@@ -2,6 +2,7 @@
   "version": "0.12",
   "metadata_finalized": "2026-10-14",
   "status": "PUBLISHED_ZENODO_RECORDS_VERIFIED_FILES_FIXED_GLOBAL_RESOLVER_NOT_CERTIFIED",
+  "hash_scope": "Local release-tree byte hashes; text line endings may be normalized by Git. Fixed ZIP/PDF hashes are cross-platform.",
   "manuscript_doi": "10.5281/zenodo.23344007",
   "code_doi": "10.5281/zenodo.23345299",
   "files": [

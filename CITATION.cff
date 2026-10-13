@@ -1,10 +1,11 @@
 cff-version: 1.2.0
-message: "Please cite the manuscript and companion separately when their DOIs are available."
-title: "Internal AI Processing and Independent Reuse of Trade Books: Contract triggers and author remedies in U.S. publishing"
+message: "Cite the article below for its legal analysis; cite the software DOI separately when using the MIT rendering code."
+title: "Figure-rendering code for Internal AI Processing and Independent Reuse of Trade Books"
 type: software
 version: "0.12"
-date-released: "2026-10-13"
+date-released: "2026-10-14"
 repository-code: "https://github.com/1209433622cz-maker/trade-book-ai-contract-coordination"
+doi: "10.5281/zenodo.23345299"
 authors:
   - family-names: "Zhang"
     given-names: "Anhui"
@@ -12,6 +13,16 @@ authors:
   - family-names: "Hong"
     given-names: "Shuliang"
     affiliation: "Yunnan University, Kunming, China"
-license:
-  - MIT
-  - CC-BY-NC-ND-4.0
+license: MIT
+preferred-citation:
+  type: article
+  title: "Internal AI Processing and Independent Reuse of Trade Books: Contract triggers and author remedies in U.S. publishing"
+  authors:
+    - family-names: "Zhang"
+      given-names: "Anhui"
+    - family-names: "Hong"
+      given-names: "Shuliang"
+  year: 2026
+  doi: "10.5281/zenodo.23344007"
+  url: "https://zenodo.org/records/23344007"
+  notes: "Author preprint, not peer reviewed or accepted; manuscript and original materials are CC BY-NC-ND 4.0, not MIT."

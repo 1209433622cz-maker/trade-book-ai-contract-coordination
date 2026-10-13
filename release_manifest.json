@@ -1,116 +1,124 @@
 {
   "version": "0.12",
-  "status": "PREPUBLICATION_FILES_VERIFIED_DOI_RESERVED_NOT_YET_REGISTERED",
+  "metadata_finalized": "2026-10-14",
+  "status": "PUBLISHED_ZENODO_RECORDS_VERIFIED_FILES_FIXED_GLOBAL_RESOLVER_NOT_CERTIFIED",
+  "manuscript_doi": "10.5281/zenodo.23344007",
+  "code_doi": "10.5281/zenodo.23345299",
   "files": [
     {
       "path": ".gitignore",
-      "sha256": "b9debf943ac83db4ecc1a8245cd8bffe702c1b562c0419baa827981a63fa432b",
-      "bytes": 50
+      "bytes": 50,
+      "sha256": "b9debf943ac83db4ecc1a8245cd8bffe702c1b562c0419baa827981a63fa432b"
+    },
+    {
+      "path": "ARCHIVES.md",
+      "bytes": 1969,
+      "sha256": "1c859fea1a6358a395be1b1021d46ecdecae56a8e7e1a283d549b8fa6e52f609"
     },
     {
       "path": "CITATION.cff",
-      "sha256": "24196002289cc99beaa78e6135d28e10f9cf583e9c9a28044224edfb8f788ae2",
-      "bytes": 698
+      "bytes": 1218,
+      "sha256": "62ff3613c62341e740d6d16936db0882ad59cbdedcee63a8297c40defe7b1a49"
     },
     {
       "path": "code/LICENSE",
-      "sha256": "b85dae5aedcc8d634fdc487abfbdeeca90965c3e3e36291b2790d6e3f188673a",
-      "bytes": 1107
+      "bytes": 1107,
+      "sha256": "b85dae5aedcc8d634fdc487abfbdeeca90965c3e3e36291b2790d6e3f188673a"
     },
     {
       "path": "code/README.md",
-      "sha256": "ecd83bd652c17f481e5164884bef3e25c450ab30088408a26ef5af57c687fc36",
-      "bytes": 807
+      "bytes": 1278,
+      "sha256": "dedf0d064a2843f4fae30395f85f7d7b849ee1b85dee8cef8160d12378d775ee"
     },
     {
       "path": "code/rebuild_figures.py",
-      "sha256": "ba937b227c3df5028ba51c116ed2fa4b4eeef23cb27c7db87147e68cfb896a3d",
-      "bytes": 4897
+      "bytes": 4897,
+      "sha256": "ba937b227c3df5028ba51c116ed2fa4b4eeef23cb27c7db87147e68cfb896a3d"
     },
     {
       "path": "code/requirements.txt",
-      "sha256": "791463bc0975bb271648b0ebc4848e88a2f70ea4e24c94d31322bf3b77103e95",
-      "bytes": 20
+      "bytes": 20,
+      "sha256": "791463bc0975bb271648b0ebc4848e88a2f70ea4e24c94d31322bf3b77103e95"
     },
     {
       "path": "data/figure_label_matrix.csv",
-      "sha256": "d3e0e0a1bfe7c9eae4b5c3fcc020b53b25e46d12df052150430063651b9db59f",
-      "bytes": 2091
+      "bytes": 2091,
+      "sha256": "d3e0e0a1bfe7c9eae4b5c3fcc020b53b25e46d12df052150430063651b9db59f"
     },
     {
       "path": "data/figure_spec.json",
-      "sha256": "95971a69ba440cdfa8a3ba4f13beeaf99d4a26c6b8823019998ee122a97497b3",
-      "bytes": 2513
+      "bytes": 2513,
+      "sha256": "95971a69ba440cdfa8a3ba4f13beeaf99d4a26c6b8823019998ee122a97497b3"
     },
     {
       "path": "data/manuscript_source.json",
-      "sha256": "301ba9c7edfb11d8d78843fd0130bff0f35cc94d041fcb0c50d747e1de8c4d17",
-      "bytes": 66201
+      "bytes": 66201,
+      "sha256": "301ba9c7edfb11d8d78843fd0130bff0f35cc94d041fcb0c50d747e1de8c4d17"
     },
     {
       "path": "data/public_clause_extract_summaries.csv",
-      "sha256": "1b3957a08e8c19950322cba684518fe99f7cd8a6e423a71f002ebcdc887fa66d",
-      "bytes": 2376
+      "bytes": 2376,
+      "sha256": "1b3957a08e8c19950322cba684518fe99f7cd8a6e423a71f002ebcdc887fa66d"
     },
     {
       "path": "data/source_locators.json",
-      "sha256": "eee42c7957bbc05c17d283ef65b58d588afd30a205f1ce5abbd43050809bb51e",
-      "bytes": 27208
+      "bytes": 27208,
+      "sha256": "eee42c7957bbc05c17d283ef65b58d588afd30a205f1ce5abbd43050809bb51e"
     },
     {
       "path": "figures/Figure_1_Model_Triggers_and_Worked_Variations_v0_12.pdf",
-      "sha256": "ff55344f9620c8c2504399a9a815a240cb8cab7570c1b3ceb100ffe0baa05d31",
-      "bytes": 50218
+      "bytes": 50218,
+      "sha256": "ff55344f9620c8c2504399a9a815a240cb8cab7570c1b3ceb100ffe0baa05d31"
     },
     {
       "path": "figures/Figure_1_Model_Triggers_and_Worked_Variations_v0_12.png",
-      "sha256": "598b4ad5d07903e6f72da20eb1ef11ebc9ba6f7dc03835045561df9b4b150c19",
-      "bytes": 335243
+      "bytes": 335243,
+      "sha256": "598b4ad5d07903e6f72da20eb1ef11ebc9ba6f7dc03835045561df9b4b150c19"
     },
     {
       "path": "figures/Figure_1_Model_Triggers_and_Worked_Variations_v0_12.svg",
-      "sha256": "df1314caf43bbfce04a02de195fb8872a5ae8a571ed22fb7a5c2a151cf74ebc2",
-      "bytes": 11204
+      "bytes": 11204,
+      "sha256": "df1314caf43bbfce04a02de195fb8872a5ae8a571ed22fb7a5c2a151cf74ebc2"
     },
     {
       "path": "figures/Figure_2_Claimants_Undertakings_and_Copyright_v0_12.pdf",
-      "sha256": "74a9b7bd77bdc5c96e468d5feeb2a62f1c7bc915dc5e433e776bf233fb8cbd9a",
-      "bytes": 45056
+      "bytes": 45056,
+      "sha256": "74a9b7bd77bdc5c96e468d5feeb2a62f1c7bc915dc5e433e776bf233fb8cbd9a"
     },
     {
       "path": "figures/Figure_2_Claimants_Undertakings_and_Copyright_v0_12.png",
-      "sha256": "ed96379a7da61da9fc7cd2f2f71614885f3bc5f126e861b1b23ce46df0716c97",
-      "bytes": 231457
+      "bytes": 231457,
+      "sha256": "ed96379a7da61da9fc7cd2f2f71614885f3bc5f126e861b1b23ce46df0716c97"
     },
     {
       "path": "figures/Figure_2_Claimants_Undertakings_and_Copyright_v0_12.svg",
-      "sha256": "639b25b770b1c9cc024ac56999946dbbdbe360c1e64781071be56653f7e3dac0",
-      "bytes": 8207
+      "bytes": 8207,
+      "sha256": "639b25b770b1c9cc024ac56999946dbbdbe360c1e64781071be56653f7e3dac0"
     },
     {
       "path": "LICENSE",
-      "sha256": "fefa337d79cf0bc71cffc450342fb5143bf72a2200bdee4202495549cd349bf3",
-      "bytes": 325
+      "bytes": 325,
+      "sha256": "fefa337d79cf0bc71cffc450342fb5143bf72a2200bdee4202495549cd349bf3"
     },
     {
       "path": "LICENSE-MANUSCRIPT.md",
-      "sha256": "cf5a9e8f998d755904a80b45cee37336081ca29294969a7758aeec986090f8ba",
-      "bytes": 1066
+      "bytes": 1066,
+      "sha256": "cf5a9e8f998d755904a80b45cee37336081ca29294969a7758aeec986090f8ba"
     },
     {
       "path": "manuscript/Manuscript_v0_12.md",
-      "sha256": "8c5242c825a9232c3b89729d1eec47b8e554c7de7de30cacc6eaf72716f1edcd",
-      "bytes": 60947
+      "bytes": 60947,
+      "sha256": "8c5242c825a9232c3b89729d1eec47b8e554c7de7de30cacc6eaf72716f1edcd"
     },
     {
       "path": "manuscript/Preprint_v0_12.pdf",
-      "sha256": "09330901f7dea1793dc08ba1ba7ef1e9f2bbe5d3456bfd88ae9b4bfc0a5fa9b8",
-      "bytes": 988816
+      "bytes": 988816,
+      "sha256": "09330901f7dea1793dc08ba1ba7ef1e9f2bbe5d3456bfd88ae9b4bfc0a5fa9b8"
     },
     {
       "path": "README.md",
-      "sha256": "1e3fb41c999cc39c91188bdfa9a682673873e19799b92a96c8a9e2aee419042e",
-      "bytes": 2746
+      "bytes": 3550,
+      "sha256": "0afb8b252590cbdaf774e34db03dce0016ae71005600c252f54622239e8cf4f0"
     }
   ]
 }

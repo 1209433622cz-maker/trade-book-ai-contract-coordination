@@ -30,4 +30,11 @@ OpenAI generative-AI tools, including Codex in the recorded current workflow, as
 
 ## Citation and archive status
 
-Use CITATION.cff. Zenodo DOI identifiers will be added only after genuine published records are verified. Creating this GitHub repository does not itself create a DOI.
+The two Zenodo records have been published and their returned file checksums match the local release assets:
+
+- [Author preprint and original materials](https://zenodo.org/records/23344007): version DOI **10.5281/zenodo.23344007**, CC BY-NC-ND 4.0.
+- [Figure-rendering code](https://zenodo.org/records/23345299): version DOI **10.5281/zenodo.23345299**, MIT.
+
+Use CITATION.cff or the separate citation information in ARCHIVES.md. These are archive DOIs, not a CLSR article DOI or evidence of acceptance. Independent DOI.org/DataCite reachability checks could not be completed during network failures; publication was verified from the Zenodo records and successful public API responses.
+
+The published files remain fixed snapshots. Later submission-format changes, including printable reference URLs and an anonymized Supplementary Material S1 cross-reference, are not silently substituted into those archives. Repository metadata was finalized on 14 October 2026.
